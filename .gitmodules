@@ -1,0 +1,9 @@
+[submodule "submodules/dotnetmovierecommendationboth"]
+	path = submodules/dotnetmovierecommendationboth
+	url = https://github.com/mongodb-developer/DotNetMovieRecommendationBot
+[submodule "DotNetMovieRecommendationBot"]
+	path = DotNetMovieRecommendationBot
+	url = https://github.com/mongodb-developer/DotNetMovieRecommendationBot
+[submodule "submodules/DotNetMovieRecommendationBot"]
+	path = submodules/DotNetMovieRecommendationBot
+	url = https://github.com/mongodb-developer/DotNetMovieRecommendationBot
